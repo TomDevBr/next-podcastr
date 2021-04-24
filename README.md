@@ -6,7 +6,7 @@
 
 Focando em *Front-End*, foi utilizado o *React* e o *NextJS* como tecnologias principais para o desenvolvimento do projeto. 
 Durante a semana do evento foram abordados temas como *hooks*, que permitiu trabalharmos mais facilmente com os "estados" da 
-aplicação. E também abordamos o *context-api* que facilita utilizar informações de contextos diferentes. Também utilizamos um 
+aplicação. E também abordamos o *context-api* que facilita utilizar informações de contextos diferentes. Além disso utilizamos um 
 server-json local para trabalharmos com API utilizando o axios.
 
 ## Como utilizar esse projeto em seu computador 
